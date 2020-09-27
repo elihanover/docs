@@ -1,57 +1,33 @@
 ---
 title: ☎️ Our Calls
-description:
-  See the various calls, meetings, work sessions, and jams for the SourceCred
-  community.
+description: See the various calls, meetings, work sessions, and jams the
+  SourceCred community has on a regular basis.
 ---
-
 SourceCred is a community in which most contributors are remote and work
 asynchronously, allowing anyone to contribute no matter their location and
 availability. We hold regularly scheduled calls, open to everyone, to cultivate
-a culture of joyful collaboration and meaningful connection between members.
+a culture of collaboration and meaningful connection between members.
 These calls have different specific purposes (and expectations), and are held on
 the [SourceCred Discord server](https://sourcecred.io/discord) using the voice
 and video channels.
 
-You can see what types of calls are currently scheduled on our
-[public calendar](http://sourcecred.io/calendar).
+You can see what types of calls are currently scheduled on our[ public calendar](http://sourcecred.io/calendar).
 
 ## Weekly Community Call
 
-What: The founder and members of the core team host a call for any newcomers or
-community members to attend, introduce themselves, ask questions, etc.
+The Community Call is a great space for newcomers and experienced community members alike. We take time to check in with each other as people, and get to know the newer people. Come join us at one and share a bit about; who you are, why you're curious about SourceCred, and what you like to work on. It's also a great way to get to know the other participants and ask any questions you may have about who we are and what we do. 
 
-**Perfect for** anyone who is interested in SourceCred, especially newcomers.
+When: Weekly, [**Tuesday** at 11am Pacific Time](https://sourcecred.io/calendar) on the [SourceCred Discord](https://sourcecred.io/discord).
 
-Purpose: To provide newcomers with the opportunity to get to know the project
-and its main team, or ask any questions they have about SourceCred.
+## "This Week in SourceCred" Call
 
-When: Weekly, [**Tuesday** at 11am Pacific Time](https://sourcecred.io/calendar)
-on the [SourceCred Discord](https://sourcecred.io/discord).
+This is a weekly call aimed primarily at: active participants, participants who like to pick up work from time to time, and new participants who want to try contributing for the first time. This call gives updates about each major portion of the project as well as potential opportunities to help. It's perfect for participants who are actively contributing to SourceCred, as well as anyone who would like to be in-tune with the larger picture. 
 
-## Weekly Contributor Call
+If you are about to start contributing, you are welcome to listen in on this call as a way to gain context. However, please be mindful not to derail conversations with too many clarifying questions. If you find yourself lost at the "This Week in SourceCred" call, attend a Community Call next. The Community Call is the best place to ask questions of any kind or level of knowledge.
 
-What: A weekly call helping contributors be on the same page about larger goals,
-getting feedback on projects/initiatives, and unblocking people where needed.
+Note: Being a participant does not make this meeting mandatory for you.
 
-**Perfect for** all people actively contributing to SourceCred, or simply anyone
-wanting to be tuned into the larger picture. If you are about to start
-contributing, you are welcome to listen in as a way to gain context, but please
-be mindful not to derail conversations with too many clarifying questions. If
-you find yourself lost at the Contributor Call, attend a Community Call instead,
-which is the best place to ask questions to your heart’s content.
-
-**Note:** Being a contributor does not make this meeting mandatory for you.
-
-Purpose: This call gives all of the contributors the opportunity to see the
-bigger picture and align their actions and priorities with the overall goals of
-the project. It also gives the branch leads a chance to get feedback and
-assistance on larger goals or changes. It helps grow a sense of connection and
-shared goals across different portions of SourceCred.
-
-When: Weekly,
-[**Thursday** at 11am Pacific Time](https://sourcecred.io/calendar) on the
-[SourceCred Discord](https://sourcecred.io/discord).
+When: Weekly,[ **Thursday** at 11am Pacific Time](https://sourcecred.io/calendar) on the[ SourceCred Discord](https://sourcecred.io/discord).
 
 ## Jams
 
